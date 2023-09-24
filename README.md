@@ -2,6 +2,9 @@
 
 Este repositório contém a implementação de um modelo conceitual hidrológico que utiliza funções empíricas para explicar subprocessos do ciclo hidrológico. O modelo busca representar de maneira simplificada os processos físicos do ciclo hidrológico em uma escala de tempo semi-horária.
 
+## Disciplina Hidrologia Física PEC/COPPE/UFRJ
+- Professor Doutor Daniel Andres Rodriguez
+
 ## Desenvolvedores
 
 - Aline Ferreira de Andrade
